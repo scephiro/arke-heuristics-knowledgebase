@@ -10,7 +10,7 @@ This project is a **structured knowledge base** that captures possible ways thro
 
 Rather than focusing on raw code or platform solutions, this vault documents:
 
-- 🧩 Problem breakdowns in my own words
+- 🧩 Problem breakdowns
 - 🚧 Naive strategies and where they fail
 - ✅ Optimal strategies and key insights
 - 🧠 Heuristics used in real-time decision-making
