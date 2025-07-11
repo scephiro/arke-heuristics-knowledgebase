@@ -15,7 +15,7 @@ The subarray must contain at least one number.
 
 ---
 
-## 🚧 Naive Strategy
+## 🚧 Initial Approach
 
 Try every possible subarray using two nested loops:
 

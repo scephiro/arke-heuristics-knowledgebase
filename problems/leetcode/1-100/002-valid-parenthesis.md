@@ -14,7 +14,7 @@ Given a string containing just parentheses (`()`, `{}`, `[]`), determine if the 
 
 ---
 
-## 🚧 Naive Strategy
+## 🚧 Initial Approach
 
 Scan the string and try to cancel out matching pairs as they appear.  
 Attempting to replace or remove matched characters in-place without structure.

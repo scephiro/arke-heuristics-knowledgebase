@@ -15,7 +15,7 @@ Only one valid pair exists. The array is not sorted, and each input has exactly 
 
 ---
 
-## 🚧 Naive Strategy
+## 🚧 Initial Approach
 
 Try every possible pair of elements using a nested loop.  
 Check if the sum of each pair equals the target.
