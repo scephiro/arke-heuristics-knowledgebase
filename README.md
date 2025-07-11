@@ -1,12 +1,12 @@
 # 🧠 Reasoning Vault
 
-> A personal archive of algorithmic decision-making, heuristics, and strategy patterns — built for clarity, not code.
+> A personal archive of algorithmic decision-making, heuristics, and strategy patterns. Built for clarity through code.
 
 ---
 
 ## 📌 What This Is
 
-This project is a **structured knowledge base** that captures how I think through algorithmic problems — not just how to solve them.
+This project is a **structured knowledge base** that captures possible ways through algorithmic problems.
 
 Rather than focusing on raw code or platform solutions, this vault documents:
 
@@ -17,7 +17,7 @@ Rather than focusing on raw code or platform solutions, this vault documents:
 - ⚠️ Common traps and false starts
 - 🧭 Meta-patterns that reappear across problems
 
-It's part of a broader effort to **externalize reasoning**, build reusable mental models, and eventually train intelligent agents to think with context — not just syntax.
+It's part of a broader effort to **externalize reasoning**, build reusable mental models, and eventually train intelligent agents to think with context.
 
 ---
 
@@ -47,8 +47,6 @@ Problems are organized by source:
 
 
 Each file is a standalone markdown document using a consistent format with metadata, rephrased summaries, strategy notes, and general insights.
-
-Example: problems/leetcode/001-two-sum.md
 
 ---
 
@@ -82,4 +80,4 @@ MIT License — see [`LICENSE.md`](LICENSE.md)
 You are free to use, remix, or build upon this work. Attribution is appreciated.
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.md)
-[![Built with 💡](https://img.shields.io/badge/Powered%20by-Reasoning%20Not%20Code-blue)]()
+[![Built with 💡](https://img.shields.io/badge/Powered%20by-Reasoning%20Through%20Code-blue)]()
