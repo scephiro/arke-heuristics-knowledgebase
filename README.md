@@ -79,5 +79,8 @@ MIT License — see [`LICENSE.md`](LICENSE.md)
 
 You are free to use, remix, or build upon this work. Attribution is appreciated.
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.md)
+![MIT License](https://img.shields.io/github/license/scephiro/arke-heuristics-knowledgebase?color=blue)
 [![Built with 💡](https://img.shields.io/badge/Powered%20by-Reasoning%20Through%20Code-blue)]()
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+![Open Issues](https://img.shields.io/github/issues/scephiro/arke-heuristics-knowledgebase)
+![Last Commit](https://img.shields.io/github/last-commit/scephiro/arke-heuristics-knowledgebase)
