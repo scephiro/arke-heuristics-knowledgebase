@@ -11,7 +11,7 @@ This project is a **structured knowledge base** that captures possible ways thro
 Rather than focusing on raw code or platform solutions, this vault documents:
 
 - 🧩 Problem breakdowns
-- 🚧 Naive strategies and where they fail
+- 🚧 Initial approaches and where they fail
 - ✅ Optimal strategies and key insights
 - 🧠 Heuristics used in real-time decision-making
 - ⚠️ Common traps and false starts
